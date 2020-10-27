@@ -1,0 +1,1 @@
+D:\Platzi\Pomodoro\Pomodoro\Pomodoro.UWP\Pomodoro.UWP.csproj;x86
